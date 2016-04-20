@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[BORRACHO]]></title>
         <description><![CDATA[BORRACHO]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/borracho/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Apr 2016 16:29:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 20 Apr 2016 16:29:30 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/borracho/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/593794da-be00-40ae-ae3c-806e77d2d1d4.png">]]></description>
+            <link>https://thegrid.ai/borracho/ci-a-tedd-talkumentary/index.html</link>
+            <guid isPermaLink="false">279052e6-970f-45e0-b369-810e1d9d967c</guid>
+            <pubDate>Wed, 20 Apr 2016 16:29:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0d8381f6-9bf1-4641-9b6e-73ea2c012056.png">]]></description>
-            <link>undefinedfemtomanagement-a-micromentary/index.html</link>
+            <link>https://thegrid.ai/borracho/femtomanagement-a-micromentary/index.html</link>
             <guid isPermaLink="false">2ce4fda5-5ea5-4243-bd0c-a7ba8572f820</guid>
             <pubDate>Wed, 20 Apr 2016 16:29:04 GMT</pubDate>
         </item>
