@@ -1,7 +1,7 @@
 name: BORRACHO
 favicon: null
-layout_spectrum: 0.5010555947665125
-typography_spectrum: 0.06133797741495073
+layout_spectrum: 1
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
