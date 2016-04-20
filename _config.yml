@@ -1,6 +1,6 @@
 name: BORRACHO
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.20048
 typography_spectrum: 1
 title: BORRACHO
 cta:
@@ -22,8 +22,8 @@ color:
     - '#00aded'
     - '#000000'
     - '#242424'
-  brandStrength: 0.6875
-  lightness: 0.6875
-  saturation: 0.26952032488770783
-  rhythmicContrast: 0.5
+  brandStrength: 0.125
+  lightness: 0.5
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []
