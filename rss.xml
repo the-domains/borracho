@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[BORRACHO]]></title>
         <description><![CDATA[BORRACHO]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/borracho/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 16:21:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 21 Apr 2016 16:22:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/borracho/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/51c468bb-d479-4f41-879f-c69c89b19f2b.gif">]]></description>
+            <link>https://thegrid.ai/borracho/9d88fc99-54b2-4d5c-8f99-e74d784e48b9/index.html</link>
+            <guid isPermaLink="false">9d88fc99-54b2-4d5c-8f99-e74d784e48b9</guid>
+            <pubDate>Thu, 21 Apr 2016 16:22:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[GIF OF THE WEEK]]></title>
             <description><![CDATA[<article><h1>GIF OF THE WEEK</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc55fe4a-6bd6-4a7e-8bc1-23d31476fae2.gif"></article>]]></description>
-            <link>undefinedgif-of-the-week/index.html</link>
+            <link>https://thegrid.ai/borracho/gif-of-the-week/index.html</link>
             <guid isPermaLink="false">0c01164d-f19a-4564-9a66-f32e77b5e91e</guid>
             <pubDate>Thu, 21 Apr 2016 16:20:46 GMT</pubDate>
         </item>
