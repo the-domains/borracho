@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'https://vimeo.com/'
   name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
   domain: vimeo.com
+  url: 'https://vimeo.com/'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
 keywords: []
 description: 'Visionary technology innovator Michael Fertik (played by real-life founder & CEO of Reputation.com Michael Fertik) explains Femto-Management, a game-changing reinvention of traditional micromanagement principles, in this cheeky documentary-style satire of Silicon Valley business culture.'
 app_links:
@@ -40,14 +40,16 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/95529846'
 title: 'Femto-management: A Micromentary'
-datePublished: '2016-04-23T03:22:43.869Z'
-dateModified: '2016-04-23T03:21:12.314Z'
-starred: false
+datePublished: '2016-04-23T03:35:52.183Z'
+dateModified: '2016-04-23T03:35:36.143Z'
 sourcePath: _posts/2016-04-23-femto-management-a-micromentary.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+inLanguage: null
+authors: []
+starred: true
 _type: VideoObject
 _context: 'http://schema.org'
 
