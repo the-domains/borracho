@@ -1,16 +1,18 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://vimeo.com/160845430'
+inLanguage: null
+keywords: []
+description: 'Innovator Michael Fertik explains how applying femto-management - his scalable, atomic level alternative to micromanagement - to internal communications can push your team over the top. The FEMTOBITS series is created by Martin Sweeney & Michael Fertik, the makers of the award-winning short films Femto-Management: A Micromentary & CI: A TEDD Talkumentary.'
+datePublished: '2016-04-23T03:16:54.997Z'
+dateModified: '2016-04-23T03:16:44.773Z'
 author:
   - name: BORRACHO
     url: 'http://vimeo.com/borrachopictures'
     avatar: {}
 related: []
-publisher:
-  url: 'https://vimeo.com/'
-  name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-  domain: vimeo.com
-keywords: []
-description: 'Innovator Michael Fertik explains how applying femto-management - his scalable, atomic level alternative to micromanagement - to internal communications can push your team over the top. The FEMTOBITS series is created by Martin Sweeney & Michael Fertik, the makers of the award-winning short films Femto-Management: A Micromentary & CI: A TEDD Talkumentary.'
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/160845430'
     type: ios
@@ -38,16 +40,16 @@ app_links:
     type: googleplay
     name: Vimeo
     id: com.vimeo.android.videoapp
-isBasedOnUrl: 'https://vimeo.com/160845430'
 title: 'FEMTOBITS: FemtoCommunication'
-datePublished: '2016-04-23T03:15:32.371Z'
-dateModified: '2016-04-23T03:14:53.766Z'
-starred: false
 sourcePath: _posts/2016-04-23-femtobits-femtocommunication.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Vimeo
+  domain: vimeo.com
+  url: 'https://vimeo.com/'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
