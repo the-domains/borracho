@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: FEMTOFILM.COM
-datePublished: '2016-04-23T03:29:56.991Z'
-dateModified: '2016-04-23T03:29:05.325Z'
+datePublished: '2016-04-23T03:30:05.369Z'
+dateModified: '2016-04-23T03:29:49.506Z'
 title: ''
 author: []
 authors: []
@@ -23,6 +23,4 @@ _type: Article
 
 ---
 FEMTOFILM.COM
-
-  
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f59f9ff-003f-427a-96d1-8019876a1e43.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/137b0d98-fefd-44e8-b7a7-4861c08b0793.png)
