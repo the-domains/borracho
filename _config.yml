@@ -1,7 +1,7 @@
 name: BORRACHO
 favicon: null
-layout_spectrum: 0.49281
-typography_spectrum: 0
+layout_spectrum: 0
+typography_spectrum: 0.96037
 title: BORRACHO
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#eaeaea'
-    - '#2b2b2b'
-    - '#00cae9'
-    - '#747474'
-    - '#6cd1e0'
-  brandStrength: 0
+    - '#567e74'
+    - '#729280'
+    - '#93a190'
+    - '#2d3037'
+    - '#304549'
+  brandStrength: 0.0625
   lightness: 1
-  saturation: 0.1875
+  saturation: 0.8125
   rhythmicContrast: 0.75
 purpose: []
