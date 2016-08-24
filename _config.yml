@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: About
+    url: 'http://martinsweeney.com'
+    type: external
 favicon: null
 title: BORRACHO
 description: Stop boring people.
